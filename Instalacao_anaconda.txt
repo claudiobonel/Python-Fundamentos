@@ -1,0 +1,14 @@
+Instalação Anaconda
+-> google.com.b
+-> anaconda download
+-> primeiro link
+-> Download para windows
+-> Executar instalação
+-> Ler contrato de instalação
+-> Manter a pasta de localização da instalação
+-> Instalar
+-> Abrir o anaconda, executar Jupyter e validar
+-> Árvore de pastas do Jupyter. c:/usuários/nome_do_usuario
+
+Videoaula - Download e instalação Anaconda
+https://www.youtube.com/watch?v=zD3GbjZR1k4
