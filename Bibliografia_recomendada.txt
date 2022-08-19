@@ -1,0 +1,3 @@
+BARRY, P. Use a cabeça! Python. Rio de Janeiro: Alta Books, 2019.
+BORGES, L. E. Python: para desenvolvedores. São Paulo: Novatec, 2017.
+CRUZ, F. Python: escreva seus primeiros programas. São Paulo: Casa do Código, 2016.
